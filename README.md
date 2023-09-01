@@ -3,6 +3,7 @@ The bash will install the ROS2 Humble in the system
 
 Install the file in the system 
 
+**Note:- Only Ubuntu 22.04 will support this file**
 1. Open the terminal Ctrl + alt + t
 2. Go to the Downloads file where the .sh file installed
 ```sh
